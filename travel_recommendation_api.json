@@ -1,0 +1,72 @@
+[
+  {
+    "city_name": "Tokyo",
+    "city_description": "Tokyo, the bustling capital of Japan, is known for its modern skyscrapers, traditional temples, and vibrant culture.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/Tokyo",
+    "city_timezone": "Asia/Tokyo"
+  },
+  {
+    "city_name": "Paris",
+    "city_description": "Paris, the capital of France, is renowned for its art, fashion, gastronomy, and the iconic Eiffel Tower.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/2560px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/Paris",
+    "city_timezone": "Europe/Paris"
+  },
+  {
+    "city_name": "New York City",
+    "city_description": "New York City, USA’s largest metropolis, is famous for Times Square, Central Park, and the Statue of Liberty.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/2560px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/New_York_City",
+    "city_timezone": "America/New_York"
+  },
+  {
+    "city_name": "London",
+    "city_description": "London, the capital of the United Kingdom, is steeped in history and home to landmarks such as Big Ben and Buckingham Palace.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/London",
+    "city_timezone": "Europe/London"
+  },
+  {
+    "city_name": "Bangkok",
+    "city_description": "Bangkok, the capital of Thailand, blends vibrant street life with ornate shrines and the bustling Chao Phraya River.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg/2560px-4Y1A1159_Bangkok_%2833536795515%29.jpg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/Bangkok",
+    "city_timezone": "Asia/Bangkok"
+  },
+  {
+    "city_name": "Sydney",
+    "city_description": "Sydney, Australia’s largest city, is famed for the Sydney Opera House, Harbour Bridge, and stunning beaches.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/2880px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/Sydney",
+    "city_timezone": "Australia/Sydney"
+  },
+  {
+    "city_name": "Dubai",
+    "city_description": "Dubai, in the United Arab Emirates, is a global hub known for ultramodern architecture and luxury shopping.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dubai_Skyline_mit_Burj_Khalifa_%28cropped%29.jpg/2880px-Dubai_Skyline_mit_Burj_Khalifa_%28cropped%29.jpg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/Dubai",
+    "city_timezone": "Asia/Dubai"
+  },
+  {
+    "city_name": "Rome",
+    "city_description": "Rome, Italy’s capital, boasts ancient ruins like the Colosseum and rich cultural heritage.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rome_skyline_panorama.jpg/2880px-Rome_skyline_panorama.jpg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/Rome",
+    "city_timezone": "Europe/Rome"
+  },
+  {
+    "city_name": "Istanbul",
+    "city_description": "Istanbul, straddling Europe and Asia, is famed for its historic sites such as Hagia Sophia and the Grand Bazaar.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/Istanbul",
+    "city_timezone": "Europe/Istanbul"
+  },
+  {
+    "city_name": "Rio de Janeiro",
+    "city_description": "Rio de Janeiro, Brazil’s vibrant city, is famous for Copacabana Beach, Christ the Redeemer statue, and carnival festivals.",
+    "city_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/2560px-Cidade_Maravilhosa.jpg",
+    "city_wiki_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+    "city_timezone": "America/Sao_Paulo"
+  }
+]
